@@ -24,6 +24,9 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: youremail@example.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 📧 Email: aman.202204062@tulas.edu.in
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-9a8233254/)
 - 🌐 [Portfolio Website](https://your-portfolio.com)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=amans2003&label=Profile%20views&color=0e75b6&style=flat)
+
