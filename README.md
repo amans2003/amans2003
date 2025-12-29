@@ -21,7 +21,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: aman.202204062@tulas.edu.in
+- 📧 Email: amaninternsingh2003@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-9a8233254/)
 - 🌐 [Portfolio Website](https://your-portfolio.com)
 
