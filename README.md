@@ -1,91 +1,29 @@
-# 👋 Hi, I'm Aman Singh
+# Hi there 👋 I'm Aman Singh
 
-💻 Web Developer | Full Stack Developer (MERN)  
-🚀 Passionate about building scalable web applications & real-time systems
+🎓 I'm a software developer passionate about full-stack development, clean code & building user-first products.
 
----
+### 🛠 Tech Stack
 
-## 🧑‍💻 About Me
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-- Web Developer at **Holstein**
-- Former **Full Stack Developer at SnapGro**
-- Experience as **SDE at Bluestoke Fintech**
-- Strong in **React, Node.js, MongoDB, REST APIs**
-- Love working on **real-time apps, dashboards & automation**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 🛠️ Tech Stack
-
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js, Tailwind CSS, DaisyUI
-
-**Backend**
-- Node.js, Express.js
-- REST APIs, JWT Authentication
-
-**Databases**
-- MongoDB, MySQL, Supabase
-
-**Tools**
-- Git, GitHub, Postman, VS Code
-
----
-
-
-
-## 🚀 Projects
-
-### 🔹 PingMe – Real-Time Chat App (MERN)
-- Real-time chat using **Socket.io**
-- JWT-based authentication
-- Profile image upload with **Cloudinary**
-- 10+ switchable themes (Tailwind + DaisyUI)
-
-🔗 Live: https://pingme-chatapp-9dki.onrender.com  
-📦 Repo: https://github.com/amans2003/PingMe
-
----
-
-### 🔹 Voting App (MEN Stack)
-- Secure online voting system
-- Role-based access (Admin / Voter)
-- JWT authentication
-- One-user-one-vote enforcement
-
-📦 Repo: https://github.com/amans2003/Voting-App
-
----
-
-## 💼 Experience Highlights
-
-### 🏢 Holstein – Web Developer
-- Built company website from scratch
-- Dealer & Distributor modules
-- QR-based coupon verification
-- Admin, Dealer & User dashboards
-- Automated manual tracking systems
-
-### 🏢 SnapGro – Full Stack Developer
-- Rider panel using React.js
-- REST API integration
-- Real-time chat & live updates using Supabase
-
-### 🏢 Bluestoke Fintech – SDE
-- Responsive website development
-- Auth flows (Sign In / Sign Up / Forgot Password)
-- IPO management modules
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 Email: amaninternsingh2003@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/aman-singh-9a8233254/
-- 🌐 Portfolio: https://amans2003.github.io/Amans-Code/
-- 🐙 GitHub: https://github.com/amans2003
+- 💼 [LinkedIn](https://www.linkedin.com/in/aman-singh-9a8233254/)
 
----
+  ![Profile views](https://komarev.com/ghpvc/?username=amans2003&label=Profile%20views&color=0e75b6&style=flat)
 
-⭐ If you like my work, feel free to star my repositories!
